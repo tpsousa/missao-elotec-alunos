@@ -3,7 +3,7 @@
 Era uma vez uma equipe de desenvolvedores encarregada de entregar o projeto mais importante do ano.  
 O sistema precisava estar pronto em apenas duas semanas, mas havia um problema: os requisitos mudavam toda hora, e os bugs surgiam do nada.
 
-O líder do time, chamado Alex, decidiu que eles precisavam de uma nova estratégia.  
+O líder do time, chamado Thiago, decidiu que eles precisavam de uma nova estratégia.  
 Era hora de trabalhar em equipe, dividir tarefas, controlar versões e agir com disciplina.
 
 Foi então que surgiu uma ideia: usar uma ferramenta chamada Git para gerenciar tudo!  
